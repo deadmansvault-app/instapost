@@ -1,0 +1,6 @@
+{
+  "name": "InstaFlow AI - Gestor Pessoal de Conteúdo",
+  "description": "Plataforma pessoal para automatizar a criação, agendamento e publicação no Instagram com IA e Meta Graph API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
